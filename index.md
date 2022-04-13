@@ -7,10 +7,10 @@ address: "Room L104, Downtown Library, 1549 University Ave, Morgantown, WV 26506
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "39.633210, -79.954247"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "Feb 23 - Feb 25, 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "1:00 pm - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2022-02-23     # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2022-02-25     # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+humandate: "May 9 - May 12, 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "9:00 am - 1:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2022-05-09     # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2022-05-12     # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Elizabeth Stregger", "Jacob Frias Koehler"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Nicolas Frazee"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["ncf0003@mix.wvu.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
