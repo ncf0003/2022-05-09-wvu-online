@@ -11,11 +11,11 @@ humandate: "Feb 23 - Feb 25, 2022"    # human-readable dates for the workshop (e
 humantime: "1:00 pm - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2022-02-23     # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-02-25     # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Nicolas Frazee", "Vivian Guetler"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Lisa Hunt"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Elizabeth Stregger", "Jacob Frias Koehler"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Nicolas Frazee"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["ncf0003@mix.wvu.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:     https://pad.carpentries.org/2022-02-23-wvu       # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite:   256422956967       # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+collaborative_notes:     https://pad.carpentries.org/2022-05-09-wvu-online       # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+eventbrite:   320913951267       # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
